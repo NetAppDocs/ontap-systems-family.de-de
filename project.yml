@@ -1,0 +1,59 @@
+---
+settings:
+  name: AFF and FAS Family
+  internal:
+    pdf_enabled: false
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+  langs: de-de,us-en,ja-jp,zh-cn,zh-tw,ko-kr,fr-fr
+sidebar:
+  entries:
+  - title: AFF und FAS Dokumentation
+    url: "/index.html"
+product-family:
+  search: clouddocs-ontap-systems_main-prod,clouddocs-ontap-systems-upgrade_main-prod,clouddocs-ontap-systems-switches_main-prod,clouddocs-ontap-metrocluster_main-prod
+  sidebarlinks:
+  - title: Alle
+    tags: tag_storage_management,tag_storage_upgrade,tag_storage_hardware,tag_get_started
+    class: active
+  - title: Los geht's
+    tags: tag_get_started
+  - title: Systemhardware
+    tags: tag_storage_hardware
+  - title: System-Upgrade
+    tags: tag_storage_upgrade
+  tiles:
+  - title: Erfahren Sie mehr über AFF und FAS
+    icon: "./media/family.png"
+    url: intro-family.html
+    summary: Erfahren Sie mehr über die AFF und FAS Storage-Systeme.
+    tags: all, tag_get_started
+  - title: Installation und Wartung von AFF und FAS
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-systems/index.html
+    summary: Installation und Wartung Ihrer AFF-, FAS- oder All-SAN-Array-Systeme
+    tags: all, tag_storage_hardware
+  - title: AFF und FAS Upgrade
+    icon: "./media/upgrade.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
+    summary: Upgrades Ihrer AFF und FAS Storage-Systeme
+    tags: all, tag_storage_upgrade
+  - title: Cluster und Storage Switches
+    icon: "./media/switch.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-switches/index.html
+    summary: Installation, Upgrade und Wartung Ihrer Cluster- und Storage-Switches.
+    tags: all, tag_storage_hardware, tag_storage_upgrade
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
+    summary: Installation und Upgrade oder Erweiterung Ihrer MetroCluster Konfigurationen
+      für Disaster Recovery
+    tags: all, tag_storage_upgrade
+  - title: ONTAP-Dokumentation
+    icon: "./media/family.png"
+    url: https://docs.netapp.com/us-en/ontap-family/index.html
+    summary: In der ONTAP-Dokumentation finden Sie Informationen zur Einrichtung von
+      ONTAP, zur Bereitstellung von Storage für Clients und zum Schützen und Managen
+      Ihrer Daten mit System Manager oder der CLI.
+    tags: all, tag_storage_management
