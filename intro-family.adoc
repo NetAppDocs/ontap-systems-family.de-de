@@ -34,7 +34,7 @@ FAS Hybrid-Flash-Systeme sind eine Hardwareplattform für gemeinsam genutzte, ko
 
 Mit seiner hochverfügbaren Hardware erfüllen FAS Hybrid-Flash-Systeme die Workload-Anforderungen kostengünstig, indem sie die ideale Kombination aus Flash und herkömmlichen Festplatten kombinieren. Sie eignet sich ideal für Backup und Aufbewahrung, zur Konsolidierung allgemeiner Business-Applikationen und für verteilte Inhalte.
 
-https://["Lesen Sie das Datenblatt zum FAS"^]
+962fcdf0e3f30c90386f558dada69895
 
 
 
