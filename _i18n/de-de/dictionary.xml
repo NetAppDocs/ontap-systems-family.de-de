@@ -10,13 +10,10 @@
   <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">All-Flash FAS Systeme (AFF)</block>
   <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">NVMe-basierte AFF Systeme sind eine robuste horizontal skalierbare Plattform, die speziell für virtualisierte Umgebungen entwickelt wurde und als unabhängiges System oder hochperformantes Tier in einer NetApp ONTAP Konfiguration implementiert werden kann.</block>
   <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">Die rein Flash-basierten FAS Konfigurationen unterstützen eine Vielzahl von Workloads, insbesondere VDI und Datenbanken, die hohe Performance, niedrige Latenz und Zuverlässigkeit erfordern, und sind somit die ideale Wahl für geschäftskritische Applikationen.</block>
-  <block id="8b8f0b3a15c5a759df893ab159a9dd8e" category="inline-link">Lesen Sie das Datenblatt zum AFF</block>
-  <block id="edea91522f14fdffcc980d8465add3b1" category="paragraph"><block ref="ea1915011593f20bb5a7853a6a5bb1eb" category="inline-link-rx"></block>.</block>
   <block id="2d69532c2bc4914b794c51462df97ff8" category="section-title">FAS Hybrid-Flash-Systeme</block>
   <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">FAS Hybrid-Flash-Systeme sind eine Hardwareplattform für gemeinsam genutzte, konsolidierte SAN- und NAS-Umgebungen, die ein umfassendes Datenmanagement und eine einfache Cloud-Anbindung erfordern.</block>
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">Mit seiner hochverfügbaren Hardware erfüllen FAS Hybrid-Flash-Systeme die Workload-Anforderungen kostengünstig, indem sie die ideale Kombination aus Flash und herkömmlichen Festplatten kombinieren. Sie eignet sich ideal für Backup und Aufbewahrung, zur Konsolidierung allgemeiner Business-Applikationen und für verteilte Inhalte.</block>
   <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">Lesen Sie das Datenblatt zum FAS</block>
-  <block id="962fcdf0e3f30c90386f558dada69895" category="paragraph"><block ref="962fcdf0e3f30c90386f558dada69895" category="inline-link-rx"></block></block>
   <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
   <block id="d8da382e26478f0bc6e18592fafd00ee" category="paragraph">AFF und FAS Storage-Systeme sind mit der Funktion MetroCluster von ONTAP konfiguriert. Sie stellen eine Lösung dar, die Array-basiertes Clustering mit synchroner Replizierung kombiniert und so kontinuierliche Verfügbarkeit ohne Datenverluste gewährleistet. Die MetroCluster-Konfiguration dupliziert transaktionsorientiert sofort alle geschäftskritischen Daten und bietet einen unterbrechungsfreien Zugriff auf alle Applikationen und Daten.</block>
   <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">Im Gegensatz zu herkömmlichen Lösungen zur Datenreplizierung arbeitet MetroCluster nahtlos mit Ihrer Host-Umgebung zusammen. Dadurch wird eine kontinuierliche Datenverfügbarkeit sichergestellt und Sie müssen sich nicht mit der Erstellung und Verwaltung komplizierter Failover-Skripts befassen.</block>
@@ -64,6 +61,8 @@
   <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">Installation, Upgrade und Wartung Ihrer Cluster- und Storage-Switches.</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">Installation und Upgrade oder Erweiterung Ihrer MetroCluster Konfigurationen für Disaster Recovery</block>
-  <block id="eb75aeb3b4b2b9734ba3e52f5483f0b2" category="sidebar">ONTAP-Dokumentation</block>
-  <block id="8005bf029d4b2e78ade8d024d73dbce2" category="sidebar">In der ONTAP-Dokumentation finden Sie Informationen zur Einrichtung von ONTAP, zur Bereitstellung von Storage für Clients und zum Schützen und Managen Ihrer Daten mit System Manager oder der CLI.</block>
+  <block id="89392af5eda25c825021d432ddf93588" category="inline-link">Lesen Sie das Datenblatt zur AFF A-Serie</block>
+  <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">Lesen Sie das Datenblatt zur AFF C-Serie</block>
+  <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> Und<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>.</block>
+  <block id="fac33d262d5cecdc4766c37ba6f9f935" category="paragraph"><block ref="fac33d262d5cecdc4766c37ba6f9f935" category="inline-link-rx"></block></block>
 </blocks>
