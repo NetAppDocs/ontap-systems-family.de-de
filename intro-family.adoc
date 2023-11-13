@@ -1,20 +1,20 @@
 ---
 permalink: intro-family.html 
-keywords: introduction, what is ONTAP systems, AFF, FAS, all-flash, ONTAP 
-summary: Die NetApp ONTAP Storage-Systeme wurden für Enterprise-Applikationen entwickelt, die einfachen, schnellen und sicheren Storage mit Zuverlässigkeit der Enterprise-Klasse und kontinuierlichem Datenzugriff benötigen. 
+keywords: introduction, what is ONTAP systems, AFF, FAS, ASA, all-flash, ONTAP 
+summary: Die NetApp ONTAP Storage-Systeme sind speziell für Enterprise-Applikationen konzipiert, die leicht zu managenden, schnellen und sicheren Storage mit Zuverlässigkeit der Enterprise-Klasse und kontinuierlichem Datenzugriff benötigen. 
 ---
-= Erfahren Sie mehr über die AFF und FAS Storage-Systeme
+= Weitere Informationen zu ONTAP Hardware-Systemen
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
 :imagesdir: ./media/
 
 
-Die NetApp AFF und FAS Storage-Systeme wurden für Enterprise-Applikationen entwickelt, die einfachen, schnellen und sicheren Storage mit Zuverlässigkeit der Enterprise-Klasse und kontinuierlichem Datenzugriff benötigen.
+Die ONTAP Hardwaresysteme von NetApp wurden für Enterprise-Applikationen konzipiert, die leicht zu managenden, schnellen und sicheren Storage mit Zuverlässigkeit der Enterprise-Klasse und kontinuierlichem Datenzugriff benötigen.
 
-Die AFF und FAS Systeme sind in rein Flash-basierten (AFF) und hybriden Flash- und rein HDD-basierten Konfigurationen (FAS) verfügbar. Sie haben die Möglichkeit, aus dem Storage-Medium auszuwählen, das Ihren Performance-, Kapazitäts- und Kostenanforderungen am besten entspricht.
+Die ONTAP Hardwaresysteme von NetApp sind in All-Flash- (AFF) und Hybrid-Flash- und rein HDD-basierten Konfigurationen (FAS) erhältlich. Somit haben Sie die Möglichkeit, die Storage-Medienmischung auszuwählen, die Ihren Performance-, Kapazitäts- und Kostenanforderungen am besten entspricht.
 
-Sie können verschiedene Kombinationen von AFF- und FAS-Modellen in Clustern zusammenführen, um gemischte Workloads auf demselben Storage-System auszuführen. So können Sie Ihre Umgebung mit den modernsten Storage-Technologien um neue Generationen erweitern.
+Sie können verschiedene Modellkombinationen in Clustern zusammenführen, um gemischte Workloads auf demselben Storage-System auszuführen und Ihre Umgebung mit den neuesten Technologien um neue Storage-Generationen zu erweitern.
 
 
 
@@ -25,6 +25,14 @@ NVMe-basierte AFF Systeme sind eine robuste horizontal skalierbare Plattform, di
 Die rein Flash-basierten FAS Konfigurationen unterstützen eine Vielzahl von Workloads, insbesondere VDI und Datenbanken, die hohe Performance, niedrige Latenz und Zuverlässigkeit erfordern, und sind somit die ideale Wahl für geschäftskritische Applikationen.
 
 https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lesen Sie das Datenblatt zur AFF A-Serie"^] Und https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Lesen Sie das Datenblatt zur AFF C-Serie"^].
+
+
+
+== All-SAN-Array (ASA)-Systeme
+
+NetApp All-Flash SAN-Arrays (ASA) sorgen für ein vereinfachtes, dediziertes SAN-Arbeitsumfeld mit kontinuierlicher Verfügbarkeit für geschäftskritische Enterprise-Datenbanken und sonstige SAN-Workloads über FCP oder iSCSI.
+
+https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["Lesen Sie das ASA Datenblatt"^]
 
 
 
@@ -40,7 +48,7 @@ https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["Lesen Sie das Date
 
 == MetroCluster
 
-AFF und FAS Storage-Systeme sind mit der Funktion MetroCluster von ONTAP konfiguriert. Sie stellen eine Lösung dar, die Array-basiertes Clustering mit synchroner Replizierung kombiniert und so kontinuierliche Verfügbarkeit ohne Datenverluste gewährleistet. Die MetroCluster-Konfiguration dupliziert transaktionsorientiert sofort alle geschäftskritischen Daten und bietet einen unterbrechungsfreien Zugriff auf alle Applikationen und Daten.
+Die Hardware-Storage-Systeme von ONTAP sind mit MetroCluster Funktionen von ONTAP konfiguriert und bieten eine Lösung, die ein Array-basiertes Clustering mit synchroner Replizierung kombiniert, um kontinuierliche Verfügbarkeit ohne Datenverluste zu gewährleisten. Die MetroCluster-Konfiguration dupliziert transaktionsorientiert sofort alle geschäftskritischen Daten und bietet einen unterbrechungsfreien Zugriff auf alle Applikationen und Daten.
 
 Im Gegensatz zu herkömmlichen Lösungen zur Datenreplizierung arbeitet MetroCluster nahtlos mit Ihrer Host-Umgebung zusammen. Dadurch wird eine kontinuierliche Datenverfügbarkeit sichergestellt und Sie müssen sich nicht mit der Erstellung und Verwaltung komplizierter Failover-Skripts befassen.
 
@@ -50,7 +58,7 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Lesen Sie mehr üb
 
 == ONTAP Software
 
-ONTAP Datenmanagement-Software ist die Clustered-Storage-Software für die AFF und FAS Systeme. Dank eines globalen Namespace, der bis zu 24 AFF und FAS Nodes aller Art unterstützt, unterstützt ONTAP Software Unified Storage (Block und Datei) und ermöglicht so eine umfangreiche Workload-Konsolidierung, die Sie über die ONTAP System Manager GUI managen können.
+Die ONTAP Datenmanagement-Software ist die Clustered Storage-Software, die die ONTAP Hardwaresysteme unterstützt. Mit einem Global Namespace, der bis zu 24 Hardware Nodes aller Art unterstützt, unterstützt die ONTAP Software Unified Storage (Block und Datei) und ermöglicht so eine beträchtliche Workload-Konsolidierung, die Sie über die ONTAP System Manager GUI managen können.
 
 https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Lesen Sie das Datenblatt zum ONTAP"^].
 
