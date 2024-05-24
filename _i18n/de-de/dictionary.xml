@@ -59,7 +59,6 @@
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">Die ONTAP Hardwaresysteme von NetApp wurden für Enterprise-Applikationen konzipiert, die leicht zu managenden, schnellen und sicheren Storage mit Zuverlässigkeit der Enterprise-Klasse und kontinuierlichem Datenzugriff benötigen.</block>
   <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">Die ONTAP Hardwaresysteme von NetApp sind in All-Flash- (AFF) und Hybrid-Flash- und rein HDD-basierten Konfigurationen (FAS) erhältlich. Somit haben Sie die Möglichkeit, die Storage-Medienmischung auszuwählen, die Ihren Performance-, Kapazitäts- und Kostenanforderungen am besten entspricht.</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">Sie können verschiedene Modellkombinationen in Clustern zusammenführen, um gemischte Workloads auf demselben Storage-System auszuführen und Ihre Umgebung mit den neuesten Technologien um neue Storage-Generationen zu erweitern.</block>
-  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">All-SAN-Array (ASA)-Systeme</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetApp All-Flash SAN-Arrays (ASA) sorgen für ein vereinfachtes, dediziertes SAN-Arbeitsumfeld mit kontinuierlicher Verfügbarkeit für geschäftskritische Enterprise-Datenbanken und sonstige SAN-Workloads über FCP oder iSCSI.</block>
   <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">Lesen Sie das ASA Datenblatt</block>
   <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
@@ -72,4 +71,5 @@
   <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">Installation und Wartung Ihrer ONTAP Hardwaresysteme.</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">Upgrade</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">Upgrade Ihrer ONTAP Hardwaresysteme.</block>
+  <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">All-Flash SAN-Array-Systeme (ASA</block>
 </blocks>

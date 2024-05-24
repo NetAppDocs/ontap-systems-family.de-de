@@ -10,6 +10,7 @@ summary: Die NetApp ONTAP Storage-Systeme sind speziell für Enterprise-Applikat
 :imagesdir: ./media/
 
 
+[role="lead"]
 Die ONTAP Hardwaresysteme von NetApp wurden für Enterprise-Applikationen konzipiert, die leicht zu managenden, schnellen und sicheren Storage mit Zuverlässigkeit der Enterprise-Klasse und kontinuierlichem Datenzugriff benötigen.
 
 Die ONTAP Hardwaresysteme von NetApp sind in All-Flash- (AFF) und Hybrid-Flash- und rein HDD-basierten Konfigurationen (FAS) erhältlich. Somit haben Sie die Möglichkeit, die Storage-Medienmischung auszuwählen, die Ihren Performance-, Kapazitäts- und Kostenanforderungen am besten entspricht.
@@ -28,7 +29,7 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lesen
 
 
 
-== All-SAN-Array (ASA)-Systeme
+== All-Flash SAN-Array-Systeme (ASA
 
 NetApp All-Flash SAN-Arrays (ASA) sorgen für ein vereinfachtes, dediziertes SAN-Arbeitsumfeld mit kontinuierlicher Verfügbarkeit für geschäftskritische Enterprise-Datenbanken und sonstige SAN-Workloads über FCP oder iSCSI.
 
