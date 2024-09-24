@@ -25,7 +25,9 @@ NVMe-basierte AFF Systeme sind eine robuste horizontal skalierbare Plattform, di
 
 Die rein Flash-basierten FAS Konfigurationen unterstützen eine Vielzahl von Workloads, insbesondere VDI und Datenbanken, die hohe Performance, niedrige Latenz und Zuverlässigkeit erfordern, und sind somit die ideale Wahl für geschäftskritische Applikationen.
 
-https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lesen Sie das Datenblatt zur AFF A-Serie"^] Und https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Lesen Sie das Datenblatt zur AFF C-Serie"^].
+* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lesen Sie das Datenblatt zur AFF A-Serie"^]
+* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Lesen Sie das Datenblatt zur AFF C-Serie"^]
+
 
 
 
@@ -33,7 +35,15 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lesen
 
 NetApp All-Flash SAN-Arrays (ASA) sorgen für ein vereinfachtes, dediziertes SAN-Arbeitsumfeld mit kontinuierlicher Verfügbarkeit für geschäftskritische Enterprise-Datenbanken und sonstige SAN-Workloads über FCP oder iSCSI.
 
-https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["Lesen Sie das ASA Datenblatt"^]
+.ASA r2-Systeme
+Die neuen NetApp ASA r2 Systeme (ASA A1K, ASA A70 und ASA A90) bieten eine einheitliche Hardware- und Softwarelösung, mit der die Benutzerfreundlichkeit speziell auf die Anforderungen reiner SAN-Kunden abgestimmt wird.
+
+Auf einem ASA r2 System sorgen ONTAP und System Manager für den Support wichtiger SAN-Funktionen. Gleichzeitig sind die Funktionen und Funktionen, die in SAN-Umgebungen nicht unterstützt werden, nicht mehr transparent.
+
+* https://www.netapp.com/data-storage/all-flash-san-storage-array/["Lesen Sie das ASA Datenblatt"^]
+* Erfahren Sie mehr über das link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["Neue ASA r2 Systeme im Vergleich zu den ASA Systemen"^]
+* Den vollständigen Konfigurationsunterstützung und -Einschränkungen für ASA- und ASA r2-Systeme finden Sie in https://hwu.netapp.com/["NetApp Hardware Universe"^]
+
 
 
 
@@ -43,7 +53,7 @@ FAS Hybrid-Flash-Systeme sind eine Hardwareplattform für gemeinsam genutzte, ko
 
 Mit seiner hochverfügbaren Hardware erfüllen FAS Hybrid-Flash-Systeme die Workload-Anforderungen kostengünstig, indem sie die ideale Kombination aus Flash und herkömmlichen Festplatten kombinieren. Sie eignet sich ideal für Backup und Aufbewahrung, zur Konsolidierung allgemeiner Business-Applikationen und für verteilte Inhalte.
 
-https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["Lesen Sie das Datenblatt zum FAS"^]
+https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["Lesen Sie das FAS Datenblatt"^]
 
 
 
@@ -53,7 +63,7 @@ Die Hardware-Storage-Systeme von ONTAP sind mit MetroCluster Funktionen von ONTA
 
 Im Gegensatz zu herkömmlichen Lösungen zur Datenreplizierung arbeitet MetroCluster nahtlos mit Ihrer Host-Umgebung zusammen. Dadurch wird eine kontinuierliche Datenverfügbarkeit sichergestellt und Sie müssen sich nicht mit der Erstellung und Verwaltung komplizierter Failover-Skripts befassen.
 
-https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Lesen Sie mehr über MetroCluster"^]
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Erfahren Sie mehr über MetroCluster"^]
 
 
 
@@ -61,13 +71,10 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Lesen Sie mehr üb
 
 Die ONTAP Datenmanagement-Software ist die Clustered Storage-Software, die die ONTAP Hardwaresysteme unterstützt. Mit einem Global Namespace, der bis zu 24 Hardware Nodes aller Art unterstützt, unterstützt die ONTAP Software Unified Storage (Block und Datei) und ermöglicht so eine beträchtliche Workload-Konsolidierung, die Sie über die ONTAP System Manager GUI managen können.
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Lesen Sie das Datenblatt zum ONTAP"^].
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Lesen Sie das Datenblatt zur ONTAP Software"^]
 
-
-
-== Finden Sie weitere Informationen
-
-* https://docs.netapp.com/us-en/ontap-systems/index.html["AFF und FAS Dokumentation"^]
+.Finden Sie weitere Informationen
+* https://docs.netapp.com/us-en/ontap-systems/index.html["ONTAP Hardwaresysteme – Dok"^]
 * https://docs.netapp.com/us-en/ontap-metrocluster/index.html["MetroCluster Dokumentation"^]
 * https://docs.netapp.com/us-en/ontap/index.html["ONTAP Dokumentation"^]
 
