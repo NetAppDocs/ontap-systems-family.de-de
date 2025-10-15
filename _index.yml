@@ -1,14 +1,12 @@
 ---
 product-family:
   title: Dokumentation zu ONTAP Hardwaresystemen
-  lead: Die Hardware-Storage-Systeme ONTAP AFF, FAS und ASA von NetApp bieten Storage-
-    und Applikations-Datenmanagement-Services für Applikationen mit hoher Bandbreite,
-    die einfachen, leicht zu managenden All-Flash Storage mit Zuverlässigkeit der
-    Enterprise-Klasse benötigen.
-  summary: Die Hardware-Storage-Systeme ONTAP AFF, FAS und ASA von NetApp bieten Storage-
-    und Applikations-Datenmanagement-Services für Applikationen mit hoher Bandbreite,
-    die einfachen, leicht zu managenden All-Flash Storage mit Zuverlässigkeit der
-    Enterprise-Klasse benötigen.
+  lead: Die ONTAP Hardwarespeichersysteme von NetApp bieten Speicher- und Anwendungsdatenverwaltungsdienste
+    für Anwendungen mit hoher Bandbreite, die einfachen, leicht zu verwaltenden All-Flash-Speicher
+    mit Zuverlässigkeit auf Unternehmensniveau benötigen.
+  summary: Die ONTAP Hardwarespeichersysteme von NetApp bieten Speicher- und Anwendungsdatenverwaltungsdienste
+    für Anwendungen mit hoher Bandbreite, die einfachen, leicht zu verwaltenden All-Flash-Speicher
+    mit Zuverlässigkeit auf Unternehmensniveau benötigen.
   sidebarlinks:
   - title: Alle
     tags: tag_all

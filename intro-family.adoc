@@ -1,6 +1,6 @@
 ---
 permalink: intro-family.html 
-keywords: introduction, what is ONTAP systems, AFF, FAS, ASA, all-flash, ONTAP 
+keywords: introduction, what is ONTAP systems, AFF, AFX, FAS, ASA, all-flash, ONTAP 
 summary: Die NetApp ONTAP Storage-Systeme sind speziell für Enterprise-Applikationen konzipiert, die leicht zu managenden, schnellen und sicheren Storage mit Zuverlässigkeit der Enterprise-Klasse und kontinuierlichem Datenzugriff benötigen. 
 ---
 = Weitere Informationen zu ONTAP Hardware-Systemen
@@ -13,7 +13,7 @@ summary: Die NetApp ONTAP Storage-Systeme sind speziell für Enterprise-Applikat
 [role="lead"]
 Die ONTAP Hardwaresysteme von NetApp wurden für Enterprise-Applikationen konzipiert, die leicht zu managenden, schnellen und sicheren Storage mit Zuverlässigkeit der Enterprise-Klasse und kontinuierlichem Datenzugriff benötigen.
 
-Die ONTAP Hardwaresysteme von NetApp sind in All-Flash- (AFF) und Hybrid-Flash- und rein HDD-basierten Konfigurationen (FAS) erhältlich. Somit haben Sie die Möglichkeit, die Storage-Medienmischung auszuwählen, die Ihren Performance-, Kapazitäts- und Kostenanforderungen am besten entspricht.
+Die ONTAP Hardwaresysteme von NetApp sind in All-Flash- und Hybrid-Flash- sowie HDD-Only-Konfigurationen verfügbar. So haben Sie die Möglichkeit, den Speichermedienmix auszuwählen, der Ihren Anforderungen an Leistung, Kapazität und Kosten am besten entspricht.
 
 Sie können verschiedene Modellkombinationen in Clustern zusammenführen, um gemischte Workloads auf demselben Storage-System auszuführen und Ihre Umgebung mit den neuesten Technologien um neue Storage-Generationen zu erweitern.
 
@@ -31,12 +31,22 @@ Die rein Flash-basierten FAS Konfigurationen unterstützen eine Vielzahl von Wor
 
 
 
+== AFX
+
+NetApp AFX ist ein disaggregiertes All-Flash-Speichersystem der Enterprise-Klasse, das alle Leistungsvorteile paralleler Dateisysteme und Nischen-KI-Speicherlösungen bietet, jedoch auf einer Plattform der Enterprise-Klasse, die einfach, sicher und vollständig integriert ist.
+
+* https://www.netapp.com/pdf.html?item=/media/142853-ds-3466-netapp-afx-datasheet.pdf["Lesen Sie das AFX-Datenblatt"^]
+* https://docs.netapp.com/us-en/ontap-afx/get-started/ontap-afx-storage.html["Erfahren Sie mehr über AFX-Speicher"^]
+
+
+
+
 == All-Flash SAN-Array-Systeme (ASA
 
 NetApp All-Flash SAN-Arrays (ASA) sorgen für ein vereinfachtes, dediziertes SAN-Arbeitsumfeld mit kontinuierlicher Verfügbarkeit für geschäftskritische Enterprise-Datenbanken und sonstige SAN-Workloads über FCP oder iSCSI.
 
 .ASA r2-Systeme
-Die neuen NetApp ASA r2 Systeme (ASA A1K, ASA A70 und ASA A90) bieten eine einheitliche Hardware- und Softwarelösung, mit der die Benutzerfreundlichkeit speziell auf die Anforderungen reiner SAN-Kunden abgestimmt wird.
+Die neuen NetApp ASA r2-Systeme (ASA A1K, ASA A70, ASA A90, ASA A20, ASA A30, ASA A50 und C30) bieten eine einheitliche Hardware- und Softwarelösung, die ein vereinfachtes Erlebnis bietet, das speziell auf die Anforderungen von SAN-Only-Kunden zugeschnitten ist.
 
 Auf einem ASA r2 System sorgen ONTAP und System Manager für den Support wichtiger SAN-Funktionen. Gleichzeitig sind die Funktionen und Funktionen, die in SAN-Umgebungen nicht unterstützt werden, nicht mehr transparent.
 
